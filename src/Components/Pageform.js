@@ -8,10 +8,11 @@ function PageForm(){
     return(
         <>
             <form className="dt-form">
-            <div>
-                <div>
-                    <input type="text" placeholder="Enter Item"/>
-                    <button>Add Item</button>
+            <div className="dt-form">
+                <div className="title">
+                    <label><span>SHOPPING</span> LIST</label>
+                    <input className="sr-bar" type="text" placeholder="Enter Item"/>
+                    <button className="add-btn">Add Item</button>
                 </div>
 
             </div>

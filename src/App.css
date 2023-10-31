@@ -28,3 +28,15 @@
   height: 80vh;
   padding: 10px;
 }
+
+.title{
+  font-size: 15px;
+}
+.sr-bar{
+  background-color: black;
+  color:white;
+
+}
+.add-btn{
+  background-color: yellow;
+}

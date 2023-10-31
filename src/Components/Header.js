@@ -9,7 +9,7 @@ function PageHeader(){
         <>
         <div className="Nav-bar">
             <div>
-                <img src="../images/AMS-logo.jpeg"/>
+                {/* <img src="../images/AMS-logo.jpeg"/> */}
             </div>
             <div className="hm-list">
             <p><span>HOME</span></p>
